@@ -1,5 +1,8 @@
 ## Hi there 👋
 
+Student at TU Delft, Mechanical Engineering. 
+- Python
+
 <!--
 **rfgzuid/rfgzuid** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
